@@ -8,8 +8,7 @@ Done at the workshop IMPRS Oct 2018.
 ## Instalation
 
 ```bash
-pip install
-git+https://github.com/inesribeiro/csv_parser
+pip install git+https://github.com/inesribeiro/csd_parser
 ```
 ## Usage
 
