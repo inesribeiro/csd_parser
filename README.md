@@ -2,7 +2,8 @@
 
 # CSV parser
 
-displays and plots csv files from the terminal
+Displays and plots csv files from the terminal.
+Done at the workshop IMPRS Oct 2018.
 
 ## Instalation
 
